@@ -50,15 +50,15 @@ The variation in acceptance rates across coupon categories demonstrates external
 - Frequent visitor to the venue type (4+ times monthly)
 - Age 26 or older
 - Income variable but responsive to price-conscious messaging
-- Travels with partner or alone (without children)
-- Non-agricultural occupation
+- Travels with passengers that were not kids
+- Occupation other than farming, fishing and forestry
 
 **Low Acceptance Profile:**
 - Infrequent visitor (0-1 times monthly)
 - Age 25 or younger
-- Travels with children or dependents
-- Agricultural/forestry occupation
+- Travels with passanger other than kids
+- Farming, fishing and forestry occupation
 
 ### Conclusion
 
-Coupon acceptance is strongly correlated with **visit frequency**, **age demographics**, **family/social context**, and **income levels**. The most effective coupon campaigns can target existing customers in their preferred venue category, account for their age and family responsibilities, and match the affordability of their income. Venue frequency and familarity looks like the strongest predictor of acceptance, indicating that coupon programs can prioritize reaching out to customers who already have an established relationship with the existing venues.
+Coupon acceptance is strongly correlated with **visit frequency**, **age demographics**, **family/social context**, and **income levels**. The most effective coupon campaigns can target existing customers in their preferred venue category, account for their age and family responsibilities, and match the affordability of their income. Frequencey of visting a venue and its familarity looks like the strongest predictor of acceptance, indicating that coupon programs can prioritize reaching out to customers who already have an established relationship with the existing venues.
